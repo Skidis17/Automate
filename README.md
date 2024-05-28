@@ -20,6 +20,7 @@ Une fonction permettant de lire le contenu du fichier Mots. txt et d'afficher la
 
 ## Partie 4 :
 Les fonctions suivantes :
+
 -Union Automates : permettant de calculer l'union de automates passés en paramètres.
 
 -Etoile_Automate : permettant de mettre à l'étoile un automate passé en paramètre.
